@@ -1,0 +1,43 @@
+﻿@model IEnumerable<VehicleRentalProj1.Models.Location>
+
+@{
+    ViewData["Title"] = "Locations";
+}
+
+<h1>Locations</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New Location</a>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-striped table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>
+                    Location Name
+                </th>
+                <th>
+                    Actions
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LocationName)
+                    </td>
+                    <td>
+                        <div class="btn-group" role="group" aria-label="Location Actions">
+                            <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.LocationId">Edit</a>
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.LocationId"
+                               onclick="return confirm('Are you sure you want to delete this location?')">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

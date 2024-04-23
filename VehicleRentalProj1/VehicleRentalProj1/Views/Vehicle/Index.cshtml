@@ -1,0 +1,54 @@
+﻿@model IEnumerable<VehicleRentalProj1.Models.Vehicle>
+
+@{
+    ViewData["Title"] = "Vehicle Index";
+}
+
+<h1>Vehicle Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlateNumber)
+            </th>
+            <th>
+                Location
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Model)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PlateNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Location.LocationName)
+                </td>
+                <td>
+                    <!-- Display the image using the img tag -->
+                    <img src="@item.ImagePath" alt="Vehicle Image" style="max-width: 100px; max-height: 100px;" />
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.VehicleId" class="btn btn-sm btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.VehicleId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

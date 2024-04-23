@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VehicleRentalProj1
+build_property.RootNamespace = VehicleRentalProj1
+build_property.ProjectDir = C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXExvY2F0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXExvY2F0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXExvY2F0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXExvY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXExvZ2luXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFBlcnNvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFBlcnNvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFBlcnNvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFBlcnNvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFJlbnRhbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFJlbnRhbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFJlbnRhbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFJlbnRhbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFZlaGljbGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFZlaGljbGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFZlaGljbGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFZlaGljbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Location/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Rental/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Vehicle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/VehicleRentalProj1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VmVoaWNsZVJlbnRhbFByb2oxXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-fxvaak5poi
+
+[C:/Users/Lenovo/Desktop/VehicleRentalProj1/VehicleRentalProj1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ph1bi4up98

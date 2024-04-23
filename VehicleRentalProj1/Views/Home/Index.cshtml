@@ -1,0 +1,133 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>MédinaRides pour Location de Voiture - Accueil</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="..." crossorigin="anonymous">
+    <!-- Votre CSS personnalisé -->
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .navbar {
+            background-color: #dc3545;
+        }
+
+        .jumbotron {
+            background-color: #dc3545;
+            color: #fff;
+        }
+
+        .card {
+            border: 1px solid #dc3545;
+            transition: transform 0.3s ease-in-out;
+        }
+
+            .card:hover {
+                transform: scale(1.05);
+            }
+
+        /* Ajout du style pour la section Contact */
+        #contact {
+            padding: 50px 0;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+
+        /* Autres styles personnalisés */
+    </style>
+</head>
+<body>
+    <!-- Barre de Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <!-- ... Votre code de navigation existant ... -->
+    </nav>
+
+    <!-- Section Jumbotron -->
+    <div class="jumbotron text-center">
+        <h1>Bienvenue à notre service de location de voitures</h1>
+        <p>Explorez notre large gamme de voitures disponibles à des tarifs avantageux.</p>
+        <a class="btn btn-light btn-lg" href="~/Login" role="button">Voir nos offres</a>
+    </div>
+
+    <!-- Contenu de la page -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="text-center">
+                            <img src="~/images/car.jpg" alt="Logo" width="70" height="70" />
+                        </div>
+                        <h5 class="card-title">Large choix de véhicules</h5>
+                        <p class="card-text">Trouvez le véhicule parfait pour vos besoins parmi notre sélection diversifiée.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="text-center">
+                            <img src="~/images/tarif.png" alt="Logo" width="70" height="70" />
+                        </div>
+                        <h5 class="card-title">Tarifs compétitifs</h5>
+                        <p class="card-text">Des tarifs compétitifs pour vous offrir le meilleur rapport qualité-prix.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="text-center">
+                            <img src="~/images/reservation.jpg" alt="Logo" width="70" height="70" />
+                        </div>
+                        <h5 class="card-title">Réservation facile</h5>
+                        <p class="card-text">Réservez rapidement et facilement votre voiture en ligne.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Section Contact avec Scroll -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contactez-nous</h2>
+            <p>Pour toute demande ou information, n'hésitez pas à nous contacter :</p>
+            <img src="~/images/email.png" alt="Logo" width="30" height="30" />
+            <p>Email: contact@locationvoiture.com</p>
+            <img src="~/images/telephone.png" alt="Logo" width="30" height="30" />
+            <p>Téléphone: +1234567890</p>
+        </div>
+    </section>
+
+
+
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="..." crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="..." crossorigin="anonymous"></script>
+    <!-- Script pour la fonction de défilement (scroll) -->
+    <script>
+        $(document).ready(function () {
+            // Au clic sur le bouton de défilement
+            $(".btn-scroll").on('click', function (event) {
+                if (this.hash !== "") {
+                    event.preventDefault();
+                    var hash = this.hash;
+                    $('html, body').animate({
+                        scrollTop: $(hash).offset().top
+                    }, 800, function () {
+                        window.location.hash = hash;
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

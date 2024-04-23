@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\VehicleRentalProj1\VehicleRentalProj1\obj\Debug\net6.0\VehicleRentalProj1.RazorAssemblyInfo.cs

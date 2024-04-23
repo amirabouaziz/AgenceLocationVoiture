@@ -1,0 +1,48 @@
+﻿@model VehicleRentalProj1.Models.Person
+
+@{
+    ViewBag.Title = "Login";
+    string errorMessage = ViewBag.ErrorMessage;
+}
+<style>
+    card{
+        background-color: #dc3545;
+    }
+</style>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header" style="background-color: #dc3545;">
+                    <h2 class="text-center">Login</h2>
+                </div>
+                <div class="card-body">
+                    @using (Html.BeginForm("Login", "Login", FormMethod.Post, new { @class = "form" }))
+                    {
+                        <div class="mb-3">
+                            @Html.LabelFor(model => model.email, new { @class = "form-label" })
+                            @Html.TextBoxFor(model => model.email, new { @class = "form-control" })
+                        </div>
+                        <div class="mb-3">
+                            @Html.LabelFor(model => model.password, new { @class = "form-label" })
+                            @Html.PasswordFor(model => model.password, new { @class = "form-control" })
+                        </div>
+                        <div class="mb-3">
+                            <input type="submit" value="Login" class="btn btn-primary" />
+                        </div>
+                        <iframe src="https://giphy.com/embed/LOX3iq10y3nUQ6cVRu" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+                        <p><a href="https://giphy.com/stickers/car-red-LOX3iq10y3nUQ6cVRu"></a></p>
+
+                    }
+                    @if (!string.IsNullOrEmpty(errorMessage))
+                    {
+                        <div class="alert alert-danger" role="alert">
+                            @errorMessage
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
